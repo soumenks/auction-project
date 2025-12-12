@@ -1,4 +1,4 @@
-# Simple MERN E-Auction (Minimal)
+# E-Auction
 
 Minimal demonstration of an e-auction app with the bare essentials.
 
